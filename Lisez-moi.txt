@@ -1,0 +1,9 @@
+
+Installation simple => copier / coller l'intégralitée du contenu de l'archive, excepté ce "Lisez-moi", dans :
+
+
+                ....../Steam/SteamApps/common/Firefall/system/bin
+				
+
+Le jeu ne sera alors plus lançable via steam ou le launcher ;
+merci donc de bien penser à créer un raccourci du fichier "FirefallClient.exe" une fois les fichiers décompressée.			
